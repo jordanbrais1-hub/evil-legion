@@ -6,7 +6,7 @@
 ![Release](https://img.shields.io/github/v/release/jordanbrais1-hub/evil-legion)
 ![Issues](https://img.shields.io/github/issues/jordanbrais1-hub/evil-legion)
 ![Último commit](https://img.shields.io/github/last-commit/jordanbrais1-hub/evil-legion)
-![Licencia](https://img.shields.io/github/license/jordanbrais1-hub/evil-legion)
+![Licencia](https://img.shields.io/github/license/jordanbrais1-hub/evil-legion?cacheSeconds=60)
 
 # 🦹‍♂️ La Legión del Mal
 

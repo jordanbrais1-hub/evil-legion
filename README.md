@@ -10,6 +10,8 @@
 
 # 🦹‍♂️ La Legión del Mal!!!!! cambio local
 
+- La Legión del Mal es la organización definitiva de supervillanos. Nuestra misión es simple: unir fuerzas para derrotar a los héroes y dominar el mundo. Con un enfoque estratégico, tecnología avanzada y un equipo de élite, estamos listos para cualquier desafío.
+
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
 > _"Unidos somos imparables, divididos somos derrotados."_
